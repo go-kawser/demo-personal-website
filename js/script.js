@@ -1,4 +1,5 @@
 // JAVASCRIPT ALL CODE:
+// --------------------------------------------------------------->
 particlesJS("particles-js", {
   particles: {
     number: {

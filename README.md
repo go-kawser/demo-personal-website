@@ -1,4 +1,4 @@
-# Personal Portfolio | Kawser - Full-Stack Engineer
+# Personal Portfolio | Md Abu Kayser - Full-Stack Engineer
 
 ## Demo Frontend
 
@@ -19,13 +19,13 @@ Professional, responsive personal portfolio template for a Full Stack Developer 
 
 ## Overview
 
-This repository contains a polished landing/portfolio website showcasing projects, services, client testimonials, and contact information for Muhammad Kawser - a Full Stack Developer and UI/UX Designer. The layout emphasizes performance, accessibility, and a modern aesthetic with theme switching and responsive components.
+This repository contains a polished landing/portfolio website showcasing projects, services, client testimonials, and contact information for Md Abu Kayser - a Full Stack Developer and UI/UX Designer. The layout emphasizes performance, accessibility, and a modern aesthetic with theme switching and responsive components.
 
 The project is intended both as a personal portfolio and as a starter template you can fork and customize to present your own work to clients.
 
 ## Live Demo github pages
 
-- **GitHub Pages:** https://go-kawser.github.io/demo-personal-website/
+- **GitHub Pages:** https://md-abu-kayser.github.io/demo-personal-website/
 
 ## Features
 
@@ -72,7 +72,7 @@ images/               # Placeholder images and avatar
 
 1. Clone the repository:
 
-- git clone https://github.com/go-kawser/demo-personal-website.git
+- git clone https://github.com/md-abu-kayser/demo-personal-website.git
 
 ### Customization Guide
 
@@ -91,7 +91,7 @@ images/               # Placeholder images and avatar
 
 **Recommended quick deploy options:**
 
-- GitHub Pages - push to `main` and enable Pages from the repository settings (select root). The site will be served at `https://go-kawser.github.io/demo-personal-website/`.
+- GitHub Pages - push to `main` and enable Pages from the repository settings (select root). The site will be served at `https://md-abu-kayser.github.io/demo-personal-website/`.
 - Netlify / Vercel - drag & drop the project folder or connect your GitHub repo for CI/CD.
 
 ### Contributing
@@ -105,15 +105,28 @@ This repo is primarily a personal portfolio template. If you'd like to suggest i
 3. Commit changes and push
 4. Open a Pull Request describing your changes
 
-##### Contact
+### License
 
-- **Name:** Kawser - Full-Stack Engineer
-- **Email:** abu.kayser.official@gmail.com
-- **Location:** Tangail, Dhaka, Bangladesh
-
-If you'd like help customizing this template, or want to hire, use the contact links on the site or email directly.
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
 
 ---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _demo-personal-website_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this project!**  
+It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for interviews, portfolio showcases, or professional demos.
 
 **Made with love - a clean, responsive portfolio template for showcasing modern web skills.**
 
