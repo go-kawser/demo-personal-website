@@ -125,7 +125,7 @@ If you’d like this README tailored for a specific purpose - such as **hiring m
 ---
 
 **Thank you for reviewing this project!**  
-It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for interviews, portfolio showcases, or professional demos.
+It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for portfolio showcases, or professional demos.
 
 **Made with love - a clean, responsive portfolio template for showcasing modern web skills.**
 
