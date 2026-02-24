@@ -4,6 +4,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
+<!-- Demo Live Link -->
+
+[![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/demo-personal-website/)
+
 <!-- HTML & CSS -->
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -156,8 +160,8 @@ This repo is primarily a personal portfolio template. If you'd like to suggest i
 - **_Name:_** Md Abu Kayser - Full-Stack Engineer
 - **_Project:_** _demo-personal-website_
 - **_Maintainer:_** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **_Email:_** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
